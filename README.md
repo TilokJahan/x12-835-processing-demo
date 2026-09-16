@@ -1,7 +1,7 @@
 # x12-835-processing-demo
 end-to-end lifecycle of an 835 through a database-heavy financial processing system
 
-Disclaimer
+# Disclaimer
 
 This project is an independently developed demonstration inspired by concepts encountered during my professional work in healthcare revenue cycle management. It does not contain source code, database schemas, customer data, proprietary business rules, or other confidential information belonging to my employer. All data and implementations in this repository are synthetic and original.
 
